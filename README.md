@@ -83,7 +83,7 @@ g 옵션을 주지않으면 조금더 키입력이 줄어들지 않을까 생각
 
 ### 4. Plotting some variables in python
 
-[vimgolf 4_67](https://user-images.githubusercontent.com/71830573/144086476-d3050dd9-5ace-42b1-8d8d-b8b50a70ac96.gif)
+![vimgolf 4_67](https://user-images.githubusercontent.com/71830573/144087902-8d3e32f9-7361-42ff-9a83-874515f24543.gif)
 
 이 문제는 제일먼저 문자를 바꾸자고 생각했습니다. 값을 바꿔야할때 모든경우에 /를 이용해서 찾아갔는데
 
