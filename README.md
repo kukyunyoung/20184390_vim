@@ -7,7 +7,7 @@
 
 ![vimgolf 1_10](https://user-images.githubusercontent.com/71830573/144048836-9ae3cd12-e431-4031-9c8a-9c4bf3e6a8d4.gif)
 
-1번 문제입니다.
+1번 문제입니다..
 
 교수님이 강의에서 해설해주신 방법 말고 다른방법으로 풀어보고자 했습니다.
 
